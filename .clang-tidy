@@ -1,2 +1,2 @@
 InheritParentConfig: true
-Checks: "-cert-msc50-cpp"
+Checks: "-cert-msc50-cpp" # rand() is completely okay for this project :^)
