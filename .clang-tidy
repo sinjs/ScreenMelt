@@ -1,0 +1,2 @@
+InheritParentConfig: true
+Checks: "-cert-msc50-cpp"
