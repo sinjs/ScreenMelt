@@ -1,5 +1,7 @@
 # ScreenMelt
 
+### [Download latest version](https://github.com/sinjs/ScreenMelt/releases)
+
 A stupid Windows application made in C++ to try out the CLion IDE which creates a screen effect that melts your screen.
 Nothing else.
 
